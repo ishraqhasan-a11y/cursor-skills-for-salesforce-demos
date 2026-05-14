@@ -1,11 +1,7 @@
 ---
 name: salesforce-work-plans
-description: Add Work Plans and Work Steps to Salesforce Work Orders via the sf CLI. Use when the user wants to populate a Salesforce Work Order with Work Plans, Work Steps, or Milestones, or when working with Salesforce Field Service Work Orders from the terminal.
+description: Add Work Plans and Work Steps to Salesforce Work Orders via the sf CLI.
 ---
-
-# Salesforce Work Plans via CLI
-
-Populate Salesforce Work Orders with Work Plans and Work Steps using the `sf` CLI. This skill covers the working approach and documents the known platform limitations.
 
 ## Prerequisites
 
